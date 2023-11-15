@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - 🐙*Sea Monster Crowdfunding*🌊🐚
 
 Submitted by: **Chunyun Zhang**
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Screen Recording 2023-11-14 at 22 19 45](https://github.com/CloudyZ524/web102_prework/assets/124476559/86eb45e5-005f-48ec-872c-b30896f75e67)
+![Screen Recording 2023-11-14 at 22 19 45](https://github.com/CloudyZ524/web102_prework/assets/124476559/aadf6bed-6167-4bac-9e7f-c3e33a7c3547)
 
 GIF created with Adobe Express
 
