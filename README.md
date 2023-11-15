@@ -22,15 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Screen Recording 2023-11-14 at 22 19 45](https://github.com/CloudyZ524/web102_prework/assets/124476559/86eb45e5-005f-48ec-872c-b30896f75e67)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Adobe Express
 
 ## Notes
 
@@ -38,7 +32,7 @@ Helped me to review JavaScript knowledge about DOM, event listener and callback 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Chunyun Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
