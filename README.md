@@ -1,8 +1,8 @@
-# WEB102 Prework - 🐙*Sea Monster Crowdfunding*🌊🐚
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Chunyun Zhang**
 
-**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+🌊 **Sea Monster Crowdfunding** 🐚 is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **8** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Screen Recording 2023-11-14 at 22 19 45](https://github.com/CloudyZ524/web102_prework/assets/124476559/aadf6bed-6167-4bac-9e7f-c3e33a7c3547)
+<img src="https://github.com/CloudyZ524/web102_prework/assets/124476559/aadf6bed-6167-4bac-9e7f-c3e33a7c3547" width="600">
 
 GIF created with Adobe Express
 
