@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![Screen Recording 2023-11-14 at 22 19 45](https://github.com/CloudyZ524/web102_prework/assets/124476559/86eb45e5-005f-48ec-872c-b30896f75e67)
 
 GIF created with Adobe Express
